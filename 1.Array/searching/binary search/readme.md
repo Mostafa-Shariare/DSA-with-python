@@ -1,4 +1,4 @@
-### **Java Code with Step-by-Step Visualization**
+### **Python Code with Step-by-Step Visualization**
 ```python
 def binary_search(arr, target):
     left, right = 0, len(arr) - 1
